@@ -1,0 +1,27 @@
+###########
+# site.title, site.url, site.author.name
+
+title:   'Awesome useless stuff'
+url:     'http://andischreiber.github.io'
+author:
+  name:  'Andreas Schreiber'
+
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
