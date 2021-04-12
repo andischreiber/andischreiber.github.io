@@ -25,3 +25,5 @@ exclude:
 safe: true
 lsi: false
 
+
+theme: jekyll-theme-minimal
